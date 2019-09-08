@@ -1,0 +1,110 @@
+.btn {
+  border: 2px solid #0081c2 !important;
+  transition: all 0.3s ease-in;
+  border-radius: 5px;
+}
+.btn:hover {
+  background: transparent !important;
+  color: #0081c2 !important;
+  border-radius: 30px;
+  border: 2px solid #0081c2 !important;
+}
+
+.carousel .carousel-control-next-icon,
+.carousel .carousel-control-prev-icon {
+  width: 40% !important;
+  height: 40% !important;
+}
+/*sombreado activo
+box-shadow: 5px 4px 10px 2px rgba(0, 0, 0, 0.4);
+li.activo {
+  background-color: rgba(255, 255, 255, 0.1) !important;
+}*/
+
+.border-radius {
+  border-radius: 10% 0% 10% 0%;
+}
+
+.polygon-full {
+  width: 100%;
+  clip-path: polygon(0 0, 100% 0, 100% 95%, 0 100%);
+}
+
+.gradient-blue {
+  background: linear-gradient(40deg, #45cafc, #303f9f) !important;
+}
+
+.barra {
+  background: linear-gradient(40deg, #45cafc, #303f9f) !important;
+}
+.navbar-background {
+  background-color: #0081c2 !important;
+}
+
+.oculto {
+  overflow: hidden;
+}
+
+#mdb-preloader.loaded {
+  opacity: 0;
+  transition: 0.3s ease-in 1s;
+  display: none;
+}
+#mdb-preloader {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: white;
+  z-index: 9999;
+  height: 100%;
+  width: 100%;
+}
+
+.img-galeria {
+  margin: 0rem;
+}
+
+.dropdown-item:hover {
+  background: rgba(0, 0, 0, 0.3) !important;
+}
+.nav-item a:hover {
+  background: rgba(0, 0, 0, 0.3) !important;
+}
+.navbar-nav .dropdown-menu {
+  position: absolute !important;
+}
+
+.dropdown-menu {
+  top: 117% !important;
+  border: none;
+}
+
+@media (max-width: 500px) {
+  .fab-container {
+    display: block;
+  }
+  .sec1 {
+    padding-bottom: 5em;
+  }
+  .icon-bar {
+    display: none;
+  }
+  .model-2 {
+    display: block;
+  }
+  .ball {
+    width: 15%;
+  }
+}
+
+@media (max-width: 767px) {
+  .navbar-nav .dropdown-menu {
+    border: 0px solid rgba(0, 0, 0, 0.15);
+    position: static !important;
+  }
+  .sec1 {
+    height: 110vh;
+  }
+}
