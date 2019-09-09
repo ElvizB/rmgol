@@ -21,7 +21,7 @@ $titulo = 'Rmgol';
         <!-- Grid column -->
         <div class="col-lg-4 col-md-6 col-sm-12 pb-5 wow fadeIn" data-wow-delay="0.4s">
           <!--Card-->
-          <div class="card z-depth-3" >
+          <div class="card z-depth-1" >
             <!--Card image-->
             <div class="view overlay zoom waves-effect waves-light" style="cursor:auto">
             <img class="card-img-top" src="<?php echo RUTA_IMG?>fotoinicio.png" alt="Card image cap">
@@ -35,7 +35,7 @@ $titulo = 'Rmgol';
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
               <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
               <div class="text-center">
-                <a  href="<?php echo RUTA_PADULTO ?>" class="btn btn-default btn-md navbar-background" >Leer Más<i class="fas fa-angle-double-right ml-3"></i></a>
+                <a  href="<?php echo RUTA_PADULTO ?>" class="btn btn-default btn-md navbar-background boton-v2">Leer Más<i class="fas fa-angle-double-right ml-3"></i></a>
               </div>
           </div>
           </div>
@@ -46,7 +46,7 @@ $titulo = 'Rmgol';
          <!-- Grid column -->
          <div class="col-lg-4 col-md-6 col-sm-12 pb-5 wow fadeIn" data-wow-delay="0.6s">
           <!--Card-->
-          <div class="card z-depth-3">
+          <div class="card z-depth-1">
             <!--Card image-->
             <div class="view overlay zoom waves-effect waves-light" style="cursor:auto">
               <img class="card-img-top" src="<?php echo RUTA_IMG?>fotoinicio.png" alt="Card image cap">
@@ -60,7 +60,7 @@ $titulo = 'Rmgol';
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
               <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
               <div class="text-center">
-                <a  href="<?php echo RUTA_CATEGORIA?>" class="btn btn-default btn-md navbar-background" >Leer Más<i class="fas fa-angle-double-right ml-3"></i></a>
+                <a  href="<?php echo RUTA_CATEGORIA?>" class="btn btn-default btn-md navbar-background boton-v2" >Leer Más<i class="fas fa-angle-double-right ml-3"></i></a>
               </div>
           </div>
           </div>
@@ -71,7 +71,7 @@ $titulo = 'Rmgol';
          <!-- Grid column -->
          <div class="col-lg-4 col-md-6 col-sm-12 pb-5 wow fadeIn" data-wow-delay="0.8s">
           <!--Card-->
-          <div class="card z-depth-3">
+          <div class="card z-depth-1">
             <!--Card image-->
             <div class="view overlay zoom waves-effect waves-light" style="cursor:auto">
             <img class="card-img-top" src="<?php echo RUTA_IMG?>fotoinicio.png" alt="Card image cap">
@@ -85,7 +85,7 @@ $titulo = 'Rmgol';
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
               <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
               <div class="text-center">
-                <a  href="#" class="btn btn-default btn-md navbar-background" >Leer Más<i class="fas fa-angle-double-right ml-3"></i></a>
+                <a  href="#" class="btn btn-default btn-md navbar-background boton-v2">Leer Más<i class="fas fa-angle-double-right ml-3"></i></a>
               </div>
           </div>
           </div>
@@ -109,7 +109,7 @@ $titulo = 'Rmgol';
       <!-- Grid column -->
         <div class="col-lg-4 col-md-6 col-sm-12 pb-5 wow fadeIn" data-wow-delay="0.4s">
           <!--Card-->
-          <div class="card z-depth-3">
+          <div class="card z-depth-1">
             <!--Card image-->
             <div class="view overlay zoom waves-effect waves-light" style="cursor:auto">
             <img class="card-img-top" src="<?php echo RUTA_IMG?>fotoinicio.png" alt="Card image cap">
@@ -123,7 +123,7 @@ $titulo = 'Rmgol';
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
               <!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
               <div class="text-center">
-                <a  href="<?php echo RUTA_PADULTO ?>" class="btn btn-default btn-md navbar-background" >Leer Más<i class="fas fa-angle-double-right ml-3"></i></a>
+                <a  href="<?php echo RUTA_PADULTO ?>" class="btn btn-default btn-md navbar-background boton-v2">Leer Más<i class="fas fa-angle-double-right ml-3"></i></a>
               </div>
           </div>
           </div>

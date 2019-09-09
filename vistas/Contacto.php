@@ -36,7 +36,7 @@ $titulo = 'Rmgol';
     eum porro a pariatur veniam.</p>
 
   <!-- Form with header -->
-  <div class="card wow fadeIn z-depth-3" data-wow-delay="0.8s">
+  <div class="card wow fadeIn z-depth-1" data-wow-delay="0.8s">
 
     <!-- Grid row -->
     <div class="row">
@@ -113,7 +113,7 @@ $titulo = 'Rmgol';
           <div class="text-center">
             <button 
                 type="button" 
-                class="btn btn-default btn-md waves-effect waves-light navbar-background font-weight-bold">Enviar
+                class="btn btn-default btn-md waves-effect waves-light navbar-background font-weight-bold boton-v2">Enviar
                 <i class="far fa-paper-plane ml-2"></i></i>
             </button>
           </div>

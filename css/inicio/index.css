@@ -1,9 +1,9 @@
-.btn {
+.boton-v2 {
   border: 2px solid #0081c2 !important;
   transition: all 0.3s ease-in;
   border-radius: 5px;
 }
-.btn:hover {
+.boton-v2:hover {
   background: transparent !important;
   color: #0081c2 !important;
   border-radius: 30px;

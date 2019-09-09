@@ -9,7 +9,7 @@ $titulo = 'Rmgol';
 ?>
 
 
-  <section class="navbar-background mt-5 polygon-full pb-5">
+  <section class="navbar-background mt-5 polygon-full pb-5 z-depth-3">
     <div class="container pt-5 ">
       <div class="row align-items-center">
         <div class="col-lg-6">
@@ -22,7 +22,7 @@ $titulo = 'Rmgol';
         </div>
         <div class="col-lg-6">
           <div class="border-radius waves-effect waves-light wow zoomIn mb-5 mb-md-0" data-wow-delay="0.5s" style="cursor:auto">
-            <img class="d-block w-100 z-depth-3" src="<?php echo RUTA_IMG?>fotoinicio.png" alt="First slide">
+            <img class="d-block w-100 z-depth-1" src="<?php echo RUTA_IMG?>fotoinicio.png" alt="First slide">
           </div>
         </div>
       </div>
@@ -39,7 +39,7 @@ $titulo = 'Rmgol';
       <!-- Grid column -->
       <div class="col-lg-5 mb-lg-0 mb-5">
         <!--Image-->
-        <img src="<?php echo RUTA_IMG?>fotoinicio.png" alt="Sample project image" class="img-fluid z-depth-3 wow zoomIn" data-wow-delay="0.5s">
+        <img src="<?php echo RUTA_IMG?>fotoinicio.png" alt="Sample project image" class="img-fluid z-depth-1 wow zoomIn" data-wow-delay="0.5s">
       </div>
       <!-- Grid column -->
 
@@ -88,7 +88,7 @@ $titulo = 'Rmgol';
       <!-- Grid column -->
       <div class="col-lg-5">
         <!--Image-->
-        <img src="<?php echo RUTA_IMG?>fotoinicio.png" alt="Sample project image" class="img-fluid rounded z-depth-3  wow zoomIn" data-wow-delay="0.5s">
+        <img src="<?php echo RUTA_IMG?>fotoinicio.png" alt="Sample project image" class="img-fluid rounded z-depth-1  wow zoomIn" data-wow-delay="0.5s">
       </div>
       <!-- Grid column -->
 
@@ -115,7 +115,7 @@ $titulo = 'Rmgol';
 
       <!-- Grid column -->
       <div class="col-lg-5 text-center text-lg-left">
-        <img class="img-fluid z-depth-3  wow zoomIn" data-wow-delay="0.5s" src="<?php echo RUTA_IMG?>fotoinicio.png" alt="Sample image">
+        <img class="img-fluid z-depth-1  wow zoomIn" data-wow-delay="0.5s" src="<?php echo RUTA_IMG?>fotoinicio.png" alt="Sample image">
       </div>
       <!-- Grid column -->
 
@@ -205,7 +205,7 @@ $titulo = 'Rmgol';
     <!-- Grid row -->          
     <div class="row wow">
       <div class="col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="0.6s">
-        <div class="single-member text-center card mb-md-5 mb-5 z-depth-3">
+        <div class="single-member text-center card mb-md-5 mb-5 z-depth-1">
           <div class="team-heading view overlay waves-effect waves-light" style="cursor:auto"></div>
           <div class="member-img">
             <img class="card-img-top" src="<?php echo RUTA_IMG?>fotoinicio.png" alt="Card image cap" />
@@ -233,7 +233,7 @@ $titulo = 'Rmgol';
       </div>   
 
       <div class="col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="0.8s">
-        <div class="single-member text-center card mb-md-5 mb-5 z-depth-3">
+        <div class="single-member text-center card mb-md-5 mb-5 z-depth-1">
           <div class="team-heading view overlay waves-effect waves-light" style="cursor:auto"></div>
           <div class="member-img">
             <img class="card-img-top" src="<?php echo RUTA_IMG?>fotoinicio.png" alt="Card image cap" />
@@ -261,7 +261,7 @@ $titulo = 'Rmgol';
       </div>  
 
       <div class="col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="1s">
-        <div class="single-member text-center card mb-md-5 mb-5 z-depth-3">
+        <div class="single-member text-center card mb-md-5 mb-5 z-depth-1">
           <div class="team-heading view overlay waves-effect waves-light" style="cursor:auto"></div>
           <div class="member-img">
             <img class="card-img-top" src="<?php echo RUTA_IMG?>fotoinicio.png" alt="Card image cap" />

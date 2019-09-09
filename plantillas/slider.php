@@ -67,30 +67,41 @@
     <!-- First slide -->
     <div class="carousel-item active banner_uno view">
       <div class="mask flex-center rgba-black-light text-white">
-        <h1 class="display-3 font-weight-bold data-title">LUNES Y MIÉRCOLES</h1>      
-        <p class="h1-responsive data-sutitile font-weight-bold">DE 8:00 A 9:00 P.M.</p>
-        <a target="" href="" class="btn btn-info" rel="nofollow">See more!</a>
+        <ul class="list-style">
+          <li>
+            <p class="display-1 font-weight-bold animated fadeIn delay-1s season">TEMPORADA 2019</p>
+          </li>
+        </ul>    
       </div>
     </div>
     <!--/.First slide-->
 
     <!-- Second slide -->
-    <div class="carousel-item banner_uno view">
-      <div class="mask flex-center rgba-black-light text-white">
-        <h1 class="display-3 font-weight-bold data-title">MARTES Y JUEVES</h1>      
-        <p class="h1-responsive data-sutitile font-weight-bold">DE 6:20 A 7:20 A.M.</p>
-        <a target="" href="" class="btn btn-info" rel="nofollow">See more!</a>
+    <div class="carousel-item banner_dos view">
+      <div class="mask flex-center rgba-black-light text-white slider-title">
+        <ul class="list-style">
+          <li><h1 class="display-2 font-weight-bold data-title animated fadeInDown delay-1s">LUNES Y MIÉRCOLES</h1>  </li>
+          <li><p class="h1-responsive data-sutitile font-weight-bold animated fadeInUp delay-2s">DE 8:00 A 9:00 P.M.</p></li>
+          <li class="pt-md-0 pt-5">
+            <a target="_blank" href="<?php echo RUTA_PADULTO ?>" class="btn btn-info animated zoomIn navbar-background delay-3s " rel="nofollow">Programa adultos</a>
+          </li>
+        </ul>          
       </div>
     </div>
     <!--/.Second slide -->
 
     <!-- Third slide -->
     <div class="carousel-item banner_uno view">
-      <div class="mask flex-center rgba-black-light text-white">
-        <h1 class="display-3 font-weight-bold data-title">MARTES Y JUEVES</h1>      
-        <p class="h1-responsive data-sutitile font-weight-bold">DE 6:20 A 7:20 A.M.</p>
-        <a target="" href="" class="btn btn-info" rel="nofollow">See more!</a>
+      <div class="mask flex-center rgba-black-light text-white slider-title">
+        <ul class="list-style">
+          <li><h1 class="display-2 font-weight-bold data-title animated fadeInLeftBig delay-1s">MARTES Y JUEVES</h1> </li>
+          <li> <p class="h1-responsive data-sutitile font-weight-bold animated fadeInRightBig delay-2s">DE 6:20 A 7:20 A.M.</p></li>
+          <li class="pt-md-0 pt-5">
+            <a target="_blank" href="<?php echo RUTA_PADULTO ?>" class="btn btn-info animated zoomIn navbar-background delay-3s " rel="nofollow">Programa adultos</a>
+          </li>
+        </ul>          
       </div>
+      
     </div>
     <!--/.Third slide-->
   </div>
