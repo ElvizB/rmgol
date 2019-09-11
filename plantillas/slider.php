@@ -53,9 +53,9 @@
   id="carousel-example-3"
   class="carousel slide carousel-fade"
   data-ride="carousel"
-  data-interval="false"
+ 
 >
-  <!--Indicators-->
+  <!--Indicators  data-interval="false"-->
   <ol class="carousel-indicators">
     <li data-target="#carousel-example-3" data-slide-to="0" class="active"></li>
     <li data-target="#carousel-example-3" data-slide-to="1"></li>
